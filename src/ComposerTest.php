@@ -1,5 +1,5 @@
 <?php
-namespace Hbc\Composer\ComposerTest;
+namespace Hbc\Composer;
 
 class ComposerTest
 {
