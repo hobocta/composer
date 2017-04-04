@@ -6,7 +6,7 @@
     "php": "^5.3.3 || ^7.0",
     "monolog/monolog": "^1.22"
   },
-  "psr-4": {
-    "Hbc\\": "src/"
+  "psr-0": {
+    "Hbc\\Composer\\": "src/"
   }
 }
