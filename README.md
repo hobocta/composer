@@ -1,3 +1,3 @@
 # composer
 
-Test.
+Composer package test.
