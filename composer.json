@@ -1,6 +1,7 @@
 {
   "name": "hobocta/composer",
   "description": "Composer package test",
+  "license": "MIT",
   "require": {
     "php": "^5.3.3 || ^7.0",
     "monolog/monolog": "^1.22"
